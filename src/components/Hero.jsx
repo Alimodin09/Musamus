@@ -31,7 +31,8 @@ export default function Hero() {
         animate="show"
         variants={container}
       >
-        <motion.h1 variants={item}>Musa — Product Designer</motion.h1>
+        <motion.h1 variants={item}>Musa</motion.h1>
+                <motion.h1 variants={item}>Product Designer</motion.h1>
         <motion.p variants={item}>
           I design and build accessible, delightful interfaces. I focus on clean,
           minimal design and smooth interactions.

@@ -14,7 +14,7 @@ export default function Navbar(){
     <nav className="nav" aria-label="Main navigation">
       <div className="nav-inner">
         <div style={{display:'flex',alignItems:'center',gap:12}}>
-          <div className="brand">Musa</div>
+          <div className="brand">My Profile</div>
         </div>
 
         <div className="nav-links" role="navigation">
